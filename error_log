@@ -1,0 +1,5 @@
+[13-Mar-2017 11:39:16 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/bssbcomn/public_html/app/application/controllers/Register.php on line 36
+[13-Mar-2017 11:39:45 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/bssbcomn/public_html/app/application/controllers/Register.php on line 36
+[13-Mar-2017 11:39:53 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/bssbcomn/public_html/app/application/controllers/Register.php on line 36
+[14-Mar-2017 03:54:16 America/Chicago] PHP Fatal error:  Call to undefined method Bssbform::redirect() in /home/bssbcomn/public_html/app/application/controllers/Bssbform.php on line 15
+[14-Mar-2017 03:56:13 America/Chicago] PHP Fatal error:  Call to undefined method Bssbform::redirect() in /home/bssbcomn/public_html/app/application/controllers/Bssbform.php on line 15
